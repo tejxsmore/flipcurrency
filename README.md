@@ -1,6 +1,7 @@
 # FlipCurrency
 
-This is a currency exchange platform designed to allow users to quickly and easily convert currencies.
+This is a currency exchange platform designed to allow users to quickly and easily convert currencies. 
+Website - https://flipcurrency.vercel.app
 
 ## Features
 
